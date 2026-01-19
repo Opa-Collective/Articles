@@ -66,3 +66,5 @@ Git для коллаборации: https://github.com/Opa-Collective/Articles 
 * 2026.01.19 Init by Artiom Kovnatsky.
 
 ---
+
+S.V.E. License v1.3+
